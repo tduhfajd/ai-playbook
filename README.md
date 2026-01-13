@@ -22,3 +22,11 @@
 - [`09-adr-template.md`](./09-adr-template.md) — шаблон архитектурного решения (ADR).
 - [`10-prompt-recipes.md`](./10-prompt-recipes.md) — готовые промпты (автор/критик/спека/дебаг).
 - [`11-definition-of-done.md`](./11-definition-of-done.md) — Definition of Done для задач и PR.
+- [`12-agent-artifacts.md`](./12-agent-artifacts.md) — артефакты агента: AGENTS/PLANS/handoff/acceptance.
+
+## Быстрый чек‑лист старта
+1) Прочитай `AGENTS.md`.
+2) Обнови `PLANS.md` под задачу.
+3) Заполни `evals/acceptance.md`.
+4) Задай агенту: “покажи план и список файлов до кода”.
+5) В конце сессии обнови `handoff.md`.
